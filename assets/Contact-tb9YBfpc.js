@@ -1,0 +1,1 @@
+import{j as e}from"./index-DbAczcHE.js";function t(){return e.jsxs("div",{className:"page-wrapper",children:[e.jsx("h1",{className:"page-header",children:"Kontakt"}),e.jsx("p",{children:"Kontakt os på telefon eller e-mail."})]})}export{t as default};

@@ -1,1 +1,0 @@
-import{j as e}from"./index-BDe-4CTt.js";function a(){return e.jsxs("div",{className:"page-wrapper",children:[e.jsx("h1",{className:"page-header",children:"Om Os"}),e.jsx("p",{children:"Vi er en lille lokal butik hvor du finder alt hvad du skal bruge til H\\u00F8ns og Foder."})]})}export{a as default};
