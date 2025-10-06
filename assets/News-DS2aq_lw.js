@@ -1,1 +1,0 @@
-import{j as e}from"./index-DbAczcHE.js";function s(){return e.jsxs("div",{className:"page-wrapper",children:[e.jsx("h1",{className:"page-header",children:"Nyheder"}),e.jsx("p",{children:"Nyheder kommer snart."})]})}export{s as default};
